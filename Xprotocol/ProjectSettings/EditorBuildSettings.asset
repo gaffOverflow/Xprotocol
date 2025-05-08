@@ -9,8 +9,8 @@ EditorBuildSettings:
     path: Assets/Scenes/CustomChimeraX.unity
     guid: e8cf902e86f5c6f4f83f823592bae634
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Samples/XR Interaction Toolkit/3.0.8/Starter Assets/DemoScene.unity
+    guid: 319dafa5c80f29f428dc1e0d03f04177
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 69ddf9a53f76bcd4fa85f20c4c94010a, type: 2}
